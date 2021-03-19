@@ -1,0 +1,9 @@
+.wrapper{
+    display:grid;
+    height:100vh;
+  /* place-items:center;*/
+    
+  }
+.cardview{
+    padding: 10px;
+}
